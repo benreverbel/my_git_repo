@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=laprovence51
+project.config.storage=ZIP
+project.id=9f309e3c-ed26-4b20-9768-9dc404716772
+product.version=7.0.0
+team.server.enabled=false
+product.original.name=NeoLoad
+product.name=NeoLoad
+product.original.version=5.1.5
+project.config.path=config.zip
+project.version=6.6
+project.original.version=5.1
